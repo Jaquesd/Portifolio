@@ -1,8 +1,9 @@
 # Portfolio
 
-Repository destinated to copile all my relevant projects in Data Science in a friendly structure.
+Repository destinated to copile all my relevant Data Science projects in a friendly structure.
 
 contatct: jaques.ufba@gmail.com
+
 
 
 ### List of Projects
