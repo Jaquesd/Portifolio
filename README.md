@@ -7,5 +7,5 @@ contatct: jaques.ufba@gmail.com
 
 
 ### List of Projects
-1 - Twitter Sentiment Analysis with Python (Completed) ---> 
+1 - Twitter Sentiment Analysis with Python (Completed) ---> https://github.com/Jaquesd/Python-Twitter-Sentiment-Analysis
 
