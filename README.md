@@ -5,6 +5,6 @@ Repository destinated to copile all my relevant projects in Data Science in a fr
 contatct: jaques.ufba@gmail.com
 
 
-List of Projects
-1 - Twitter Sentiment Analysis with Python (Completed) --->
+### List of Projects
+1 - Twitter Sentiment Analysis with Python (Completed) ---> 
 
