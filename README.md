@@ -2,7 +2,7 @@
 
 Repository destinated to copile all my relevant Data Science projects in a friendly structure.
 
-Contatct: jaques.ufba@gmail.com
+*Contatct: jaques.ufba@gmail.com*
 
 
 
