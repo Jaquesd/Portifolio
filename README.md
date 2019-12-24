@@ -8,4 +8,3 @@ Contatct: jaques.ufba@gmail.com
 
 ### List of Projects
 1 - Twitter Sentiment Analysis w/ Python ---> https://github.com/Jaquesd/Python-Twitter-Sentiment-Analysis
-
