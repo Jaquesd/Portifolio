@@ -4,6 +4,8 @@ Repository destinated to copile all my relevant Data Science projects in a frien
 
 *Contatct: jaques.ufba@gmail.com*
 
+*LinkedIn: https://www.linkedin.com/in/jaques-d%E2%80%99erasmo-7156524b/*
+
 
 
 ### List of Projects
