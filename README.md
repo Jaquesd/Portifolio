@@ -2,9 +2,9 @@
 
 Repository destinated to copile all my relevant Data Science projects in a friendly structure.
 
-*Contatct: jaques.ufba@gmail.com*
+Contatct: jaques.ufba@gmail.com
 
-*LinkedIn: https://www.linkedin.com/in/jaques-d%E2%80%99erasmo-7156524b/*
+LinkedIn: https://www.linkedin.com/in/jaques-d%E2%80%99erasmo-7156524b/
 
 
 
