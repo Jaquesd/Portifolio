@@ -12,4 +12,3 @@ Repository destinated to copile all my relevant Data Science projects in a frien
 ---
 
 1 - Twitter Sentiment Analysis w/ Python ---> https://github.com/Jaquesd/Python-Twitter-Sentiment-Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jaquesd/Python-Twitter-Sentiment-Analysis/master)
