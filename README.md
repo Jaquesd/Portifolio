@@ -5,7 +5,7 @@
 *Contatct: jaques.ufba@gmail.com* | *LinkedIn: https://www.linkedin.com/in/jaquesderasmo/*
 
 
-### List of Projects
+### Project List
 ---
 
 
