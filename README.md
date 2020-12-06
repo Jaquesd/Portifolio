@@ -2,7 +2,7 @@
 
 ### Data Science | Machine Learning | AI 
 
-*Contatct: jaques.ufba@gmail.com* | *LinkedIn: linkedin.com/in/jaquesderasmo*
+*Contatct: jaques.ufba@gmail.com* | *LinkedIn: https://www.linkedin.com/in/jaquesderasmo/*
 
 
 ### List of Projects
