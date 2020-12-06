@@ -1,6 +1,7 @@
-# Portfolio
+# Portfolio | Projects Summary 
 
-Repository destinated to copile all my relevant Data Science projects in a friendly structure.
+### Data Science | Machine Learning | AI 
+
 
 
 *Contatct: jaques.ufba@gmail.com*
@@ -11,4 +12,4 @@ Repository destinated to copile all my relevant Data Science projects in a frien
 ### List of Projects
 ---
 
-1 - Twitter Sentiment Analysis w/ Python ---> https://github.com/Jaquesd/Python-Twitter-Sentiment-Analysis
+1 - Twitter Sentiment Analysis in Python ---> https://github.com/Jaquesd/Python-Twitter-Sentiment-Analysis
