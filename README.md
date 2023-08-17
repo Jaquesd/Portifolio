@@ -1,4 +1,4 @@
-# Portfolio | Projects Summary 
+# Portfolio 
 
 ### Data Science | Machine Learning | AI 
 
